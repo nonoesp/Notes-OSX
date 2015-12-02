@@ -5,6 +5,10 @@ Useful notes of Cocoa in OSX (Xcode, Objective-C, Swift, and OpenGL).
 
 * [Create a Singleton Class](http://www.galloway.me.uk/tutorials/singleton-classes/)
 
+## To-do
+
+## Creating a Protocol and A Delegate
+
 ## License
 
 Notes-OSX is licensed under the MIT license. (http://opensource.org/licenses/MIT)
