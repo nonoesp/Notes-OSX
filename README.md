@@ -34,7 +34,7 @@ NSLog(@"%@", isActive ? @"YES" : @"NO");
 
 ## OpenGL
 
-Even though these notes are not C#, I will keep them here until this section grows enough to create a single repository of OpenGL notes.
+Notes specific to generating graphics using Xcode, OpenGL, and Objective-C for OS X. As OpenGL is a cross-platform open-source library, many things will be really similar in other languages — even though syntax may vary. Also, there are things that have been deprecated in OS X (like the *glu* library) and things that work here but don’t work in other environments (like iOS, which only allows to draw with vertex buffers).
 
 ### OpenGL References
 
