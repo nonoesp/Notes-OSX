@@ -44,6 +44,7 @@ Notes specific to generating graphics using Xcode, OpenGL, and Objective-C for O
 * [Build A Windows.Forms+GLControl Based App](http://www.opentk.com/doc/chapter/2/glcontrol)
 * [Understanding Depth and Stencil Buffers](https://open.gl/depthstencils)
 * [Object Outlining](http://www.flipcode.com/archives/Object_Outlining.shtml) (2002)
+* [Wrap a struct with an NSValue](http://stackoverflow.com/questions/5691881/how-to-wrap-a-struct-into-nsobject)
 
 ### Subclassing NSOpenGLView
 
